@@ -1,0 +1,100 @@
+
+.NET Interview Questions	
+Question																	Area
+
+What are SOILD Principles in Oops. Explain with example.					Oops
+What is Singleton															Oops
+What is difference between Abstract class and interface						Oops
+Explain Aggregation & Association											Oops
+Explain Overriding and overloading											Oops
+What is Static constructor?													Oops
+Explain Factory Pattern.													Oops
+What is difference between Factory and Abstract Factory						Oops
+Explain IOC, DI																Oops
+What are different containers in dependency injection						Oops
+What is VAR keyword															C#
+What is difference between Var and Dynamic									C#
+What is reflection?															C#
+What is dispose method?														C#
+What is method hiding and method overriding?								C#
+What is Static?																C#
+What are Extension Methods?													C#
+What are delegates, when they are used?										C#
+Explain LINQ queries with Example											C#
+What is protected internal access modifier									C#
+Is multiple inheritance possible in C#?										C#
+How can we change value type to reference type and vice versa? (Boxing and unboxing)	C#
+How can we achieve a class not be inherited to another classes?				C#
+What are Anonymous Types?													C#
+Difference between Dispose and Finalize										C#
+What is difference between Thread and Process?								C#
+What's is async and await?													C#
+Explain TPL.																C#
+Which type of Inheritance is not supported in c#?							C#
+Which entity framework version you have used?								C#
+Which Entity Framework approach you have used in your project?				C#
+How to insert data in database using Entity Framework ?						C#
+If I want to change column name in Code First approach what I do?			C#
+Explain Routing in MVC														MVC
+How to debug the View?														MVC
+Difference Tempdata and ViewData											MVC
+Explain MVC Architecture													MVC
+What is Layout view?														MVC
+How you will create partial view?											MVC
+How will you do validations in MVC?											MVC
+What is ActionName attribute?												MVC
+How to do pagination of MVC?												MVC
+What is ActionName attribute?												MVC
+Explain different Filters in MVC											MVC
+How to pass data from controller to view?									MVC
+How to pass data form view to controller?									MVC
+How to pass data from controller to view?									MVC
+Which Action Filters you used in your Project?								MVC
+How to handle errors in MVC?												MVC
+What is Partial View?														MVC
+Difference between Partial and Render Partial?								MVC
+Explain all binding and when to use which binding ?							WCF
+What is the security level for basic HTTP binding							WCF
+What are the different WCF Instance Activation Methods available?			WCF
+What are the different ways to handle concurrency in WCF?					WCF
+Explain Singleton Instance in WCF											WCF
+Explain Security in wcf, where do you mention security tag in config file?	WCF
+What is Endpoint?															WCF
+How client can access WCF Services?											WCF
+How to overload method in WCF?												WCF
+What are different contract available in WCF?								WCF
+How to handle Transactions in WCF?											WCF
+What SOA architecture?														WCF
+What is difference between WCF and WCF REST?								WCF
+Difference between WCF and Web API?											WCF, WebAPI
+How many types of methods present in Web API?								WCF, WebAPI
+Can we get values from POST method?											WCF, WebAPI
+How to do authentication in Web API?										WCF, WebAPI
+What are different techniques to access database in Projects				SQL
+Write a Query to get duplicate records										SQL
+What is CTE?																SQL
+What is MERGE statement in SQL												SQL
+How will you increase the Performance of the Store Procedure				SQL
+Difference between tempTable and table variable?							SQL
+What are Global and local variable in sql server?							SQL
+Write a query to get the fifth highest salary from table.					SQL
+How many primary keys can a table have?										SQL	
+How many unique keys can a table have?										SQL	
+What are different types of indexes in SQL Server?							SQL	
+How do you debug the exception in Stored Procedure?							SQL	
+How do you handle transaction management in Sql?							SQL	
+What are aggregate functions?												SQL	
+What is table locking in SQL server?										SQL	
+What are Triggers? Types of Triggers?										SQL	
+Explain difference between SP and function?									SQL	
+What is difference between Union and Union All								SQL	
+What is REST?																Rest	https://www.tutorialspoint.com/restful/restful_interview_questions.htm
+Name some of the commonly used HTTP methods used in REST based architecture?Rest	
+What is the difference between PUT and POST operations?						Rest	
+What is a Resource in REST?													Rest	
+What is statelessness in RESTful Webservices?								Rest	
+What is AWS?																AWS	
+Name the several layers of Cloud Computing.									AWS
+Define auto-scaling															AWS
+Is it possible to scale an Amazon instance vertically? How?					AWS
+What is DynamoDB?															AWS
